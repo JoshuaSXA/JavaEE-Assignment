@@ -1,4 +1,4 @@
-# CollegeEducation-backend
+# JavaEE_FinalProject-backend
 
 ## Dependency：
 
